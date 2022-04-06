@@ -102,3 +102,15 @@ dist
 
 # TernJS port file
 .tern-port
+
+# Subgraph files
+build/
+subgraph.temp.yaml
+envVars.ts.backup
+package-lock.json
+package-dev.json
+scripts/initDev.js
+*.zip
+
+# MacOS files
+.DS_Store
